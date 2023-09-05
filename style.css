@@ -56,11 +56,11 @@ img {
 }
 
 .form .pass ::placeholder {
-	color: #dddfe2;
+	color: #bcbcbd;
 }
 
 .form .mail ::placeholder {
-	color: #dddfe2;
+	color: #bcbcbd;
 }
 
 .btn {
