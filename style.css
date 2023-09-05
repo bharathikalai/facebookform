@@ -1,0 +1,98 @@
+body {
+	margin: 0%;
+	padding: 0%;
+	font-family: inherit;
+	background-color: rgb(240, 242, 245);
+}
+
+img {
+	width: 240px;
+	height: 84.5px;
+}
+
+.form {
+	margin: 0px auto;
+	background-color: rgb(255, 255, 255);
+	width: 392px;
+	height: 354px;
+}
+
+.form p {
+	padding: 22px 0px 16px 0px;
+	text-align: center;
+	color: #1c1e21;
+	font-size: 18px;
+	width: 396px;
+	height: 22px;
+	font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+}
+
+.form .mail {
+	margin-left: 12px;
+	border-radius: 6px;
+}
+
+.form .mail input {
+	padding: 14px 16px;
+	width: 330px;
+	height: 22px;
+	font-size: 17px;
+	border: 1px solid #dddfe2;
+}
+
+.form .pass {
+	margin-left: 12px;
+	border-radius: 6px;
+	color: #1d2129;
+}
+
+.form .pass input {
+	border: 1px solid #dddfe2;
+	margin-top: 15px;
+	padding: 14px 16px;
+	width: 330px;
+	height: 22px;
+	font-size: 17px;
+}
+
+.form .pass ::placeholder {
+	color: #dddfe2;
+}
+
+.form .mail ::placeholder {
+	color: #dddfe2;
+}
+
+.btn {
+	margin-left: 12px;
+	margin-top: 15px;
+	background-color: #166fe5;
+	border: none;
+	border-radius: 6px;
+	font-size: 20px;
+	line-height: 48px;
+	padding: 0px 16px;
+	width: 362px;
+	cursor: pointer;
+	display: inline-block;
+	font-weight: bold;
+	color: white;
+}
+
+a {
+	color: #166fe5;
+	text-decoration: none;
+}
+
+.form .custom-link {
+	font-size: 14px;
+	margin-top: 20px;
+	text-align: center;
+	font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+}
+
+.i {
+	margin-top: 15px;
+	margin-bottom: -15px;
+	text-align: center;
+}
